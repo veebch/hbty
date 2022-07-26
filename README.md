@@ -2,4 +2,4 @@
 
 # hbty
 
-Pico party
+Pico party. It will wait until the lights go dim, light its fake flickery candle and play happy birthday on its tiny buzzer.
