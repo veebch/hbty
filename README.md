@@ -11,4 +11,4 @@ Pico party. It will wait until the lights go dim, light its fake flickery candle
 - Buzzer
 - Photoresistor
 
-Solder the components directly to the board (see photo). Copy the code to a file called `main.py` at the root directory of the pico.
+Solder the components directly to the board (see photo). Copy the code to a file called `main.py` at the root directory of the pico. Now every time you plug it in, it will be poised to sing Happy Birthday (once) when the lights go down.
