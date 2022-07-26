@@ -11,6 +11,8 @@ Pico party. It will wait until the lights go dim, light its fake flickery candle
 - Buzzer
 - Photoresistor
 
+# Assembly 
+
 Solder the components directly to the board (see photo). 
 
 Buzzer to GND and GP15. Photoresistor to GND and GP26 and GND to resistor to LED cathode (short leg), LED anode (long leg) to GP16.
