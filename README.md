@@ -9,6 +9,6 @@ Pico party. It will wait until the lights go dim, light its fake flickery candle
 - 220 ohm resistor
 - Yellow LED
 - Buzzer
-- Photoresitor
+- Photoresistor
 
 Solder the componets directly to the board (see photo). Copy the code to a file called `main.py` at the root directory of the pico.
