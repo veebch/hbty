@@ -95,10 +95,11 @@ tones = {
 "DS8": 4978
 }
 
-song = ["D5","D5","E5","D5","G5","FS5","P", \
+ song = ["D5","D5","E5","D5","G5","FS5","P", \
         "D5","D5","E5","D5","A5","G5","P", \
-        "D5","D5","B5","G5","FS5","E5","P", \
+        "D5","D5","D6","B5","G5","FS5","E5","P", \
         "C6","C6","B5","G5","A5","G5"]        
+ 
 
 # f is crotchet
 # h is quaver
@@ -106,8 +107,9 @@ song = ["D5","D5","E5","D5","G5","FS5","P", \
 
 timing = ["h","h","f","f","f","d","h", \
         "h","h","f","f","f","d","h", \
-        "h","h","f","f","f","d","h",  \
+        "h","h","f","f","f","f","f","h",  \
         "h","h","f","f","f","d"]
+
 
 def playtone(frequency,buzzer):
     buzzer.duty_u16(6000)
