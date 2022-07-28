@@ -2,7 +2,7 @@
 
 # hbty
 
-Pico party. It will wait until the lights go dim, light its fake flickery candle and play happy birthday on its tiny buzzer.
+Pico party. It will wait until the lights go dim, light its fake flickery candle and play happy birthday on its tiny buzzer. If you just want to add a flickery nightlight to a project, you can just omit the buzzer part.
 
 # Components
 - Raspberry pi pico
