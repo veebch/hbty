@@ -153,7 +153,7 @@ def flickerloop():
     photoPIN = 26    
     pwm = PWM(Pin(ledpin))
     pwm.freq(1000)
-    sang=False       
+    sang=False  # If you want it to skip the musical interlude, set to True and it will never play HBTY       
     while True:
         dazzle = readLight(photoPIN)
         print("Dazzle: " + str(dazzle))
