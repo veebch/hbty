@@ -129,7 +129,7 @@ def readLight(photoGP):
 
 def playsong(mysong, mytiming,buzzerpin):
     sleep(4) # dramatic pause
-    notelength=.3
+    notelength=.45
     buzzer = PWM(Pin(buzzerpin))
     print(len(mysong),len(mytiming))
     for i in range(len(mysong)):
