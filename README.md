@@ -21,7 +21,6 @@ Copy the code to a file called `main.py` at the root directory of the pico. Now 
 
 # Video
 
-
 [![Explainer vid](http://img.youtube.com/vi/56xwBkNzca4/0.jpg)](http://www.youtube.com/watch?v=56xwBkNzca4 "Video Title")
 
 # Christmas Version (Jingle Bells)
