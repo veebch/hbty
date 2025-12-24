@@ -58,5 +58,3 @@ def playsong(freqs, durs, buzzerpin):
 # =====================
 buzzerpin = 15
 playsong(frequencies, timings, buzzerpin)
-
-
