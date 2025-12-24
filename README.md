@@ -26,4 +26,4 @@ Copy the code to a file called `main.py` at the root directory of the pico. Now 
 
 # Christmas Version (Jingle Bells)
 
-The LDR is removed and the flickering LED is replaced with a 820nm red led which is connected to VSYS so that it is nice and bright.
+In the file [christmas.py](/christmas.py) The LDR is removed and the flickering LED is replaced with a 820nm red led which is connected to VSYS so that it is nice and bright.
